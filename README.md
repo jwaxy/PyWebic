@@ -67,3 +67,7 @@ print(datetime.now().strftime('%H:%M:%S')) ?></p>
 </body>
 </html>
 ```
+
+> Result:
+
+![Image of the result](https://i.imgur.com/8GjOBaH.png)
