@@ -1,14 +1,11 @@
 ## PyWebic: a Python library for dynamic web development.
 
----
 
-PyWebic is a Python library designed for dynamic web development. The name comes from a combination of 'Python' and 'Webic', which is a made-up word representing the idea of a dynamic web. We chose this name because it aligns with our library's goal of making web development more dynamic and efficient using Python.
-
+PyWebic is a Python library designed for dynamic web development. The name comes from a combination of 'Python' and 'Webic', which is a made-up word representing the idea of a dynamic web. I chose this name because it aligns with the library's goal of making web development more dynamic and efficient using Python.
 
 
-##### Installation:
 
----
+### Installation:
 
 ```bash
 pip install git+https://github.com/jwaxy/PyWebic.git
@@ -16,9 +13,7 @@ pip install git+https://github.com/jwaxy/PyWebic.git
 
 
 
-##### Example:
-
----
+### Example:
 
 > example.py
 
